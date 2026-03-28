@@ -1,4 +1,14 @@
-## Hi there 👋
+## Name:
+Archit Sandeep Gore
+
+## Branch:
+CSE Core
+
+## Year:
+1st year
+
+## What I hope to learn:
+I want to learn about AI & ML as my general field. I want to explore LLMs and Algo Tradings as my specializations
 
 <!--
 **architgore30/architgore30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
